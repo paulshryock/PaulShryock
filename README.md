@@ -1,3 +1,5 @@
+Black lives matter.
+
 ### Hi 👋
 
 I'm a web developer with a design background serving enterprise clients, agencies, and startups since 2009. I work as a WordPress Engineer on the Digital Product Development team at [the NBA][nba]. I'm also a part-time Web Developer at [Palantir][palantir].
