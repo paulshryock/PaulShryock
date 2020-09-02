@@ -7,7 +7,7 @@ In my free time:
 - 💻 I’m working on [New Project Starter Kit][npsk] and [my new website][pshry.com]
 - 🌱 I’m learning React
 - 💪 I can Squat 240 lb, Bench 190 lb, and Deadlift 320 lb
-- 🎸 I enjoy playing guitar, painting, and reading
+- 🎸 I enjoy playing guitar, reading, bike riding, and painting
 - 📫 Reach me [@paul_shryock on Twitter][twitter]
 
 [nba]: https://www.nba.com/
