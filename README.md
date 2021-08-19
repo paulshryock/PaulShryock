@@ -8,7 +8,7 @@ Proud to be listed as an open source contributor to [eleventy](https://github.co
 
 - Chat with me on [Twitter][twitter].
 - Watch me lift weights on [Instagram](instagram).
-- Fill my inbox with job offers I'll ignore at [LinkedIn](linkedin).
+- Send me job offers I'll ignore on [LinkedIn](linkedin).
 
 [nba]: https://www.nba.com/
 [wnba]: https://www.wnba.com/
