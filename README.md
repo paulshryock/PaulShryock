@@ -6,6 +6,7 @@ I live and work remotely in New Jersey, with my wife, Jess. I'm currently a **Wo
 
 Proud to be listed as an open source contributor to [eleventy](https://github.com/11ty/eleventy/graphs/contributors) and [postcss](https://github.com/postcss/postcss/graphs/contributors).
 
+- Follow me on [GitHub](github).
 - Chat with me on [Twitter][twitter].
 - Watch me lift weights on [Instagram](instagram).
 - Send me job offers I'll ignore on [LinkedIn](linkedin).
@@ -15,6 +16,7 @@ Proud to be listed as an open source contributor to [eleventy](https://github.co
 [g-leauge]: https://gleague.nba.com/
 [nba-2k-league]: https://2kleague.nba.com/
 [palantir]: https://www.palantir.com/
+[github]: https://github.com/paulshryock/
 [twitter]: https://twitter.com/paul_shryock/
 [instagram]: https://www.instagram.com/paulshryock/
 [linkedin]: https://www.linkedin.com/in/paulshryock/
