@@ -2,12 +2,19 @@ Black lives matter.
 
 ### Hi 👋
 
-I'm a WordPress Engineer on the Digital Product Development team at [the NBA][nba]. I'm also a part-time Web Developer at [Palantir][palantir]. I've served enterprise clients, agencies, and startups since 2009.
+I live and work remotely in New Jersey, with my wife, Jess. I'm currently a **WordPress Engineer** at the [NBA][nba], where I develop digital products for the league, as well as for the [WNBA](wnba), [G League](g-league), and [NBA 2K League](nba-2k-league). I'm also a part-time **Web Developer** at [Palantir][palantir], maintaining their public-facing marketing site.
 
 Proud to be listed as an open source contributor to [eleventy](https://github.com/11ty/eleventy/graphs/contributors) and [postcss](https://github.com/postcss/postcss/graphs/contributors).
 
-Reach me [@paul_shryock on Twitter][twitter].
+- Chat with me on [Twitter][twitter].
+- Watch me lift weights on [Instagram](instagram).
+- Fill my inbox with job offers I'll ignore at [LinkedIn](linkedin).
 
 [nba]: https://www.nba.com/
+[wnba]: https://www.wnba.com/
+[g-leauge]: https://gleague.nba.com/
+[nba-2k-league]: https://2kleague.nba.com/
 [palantir]: https://www.palantir.com/
-[twitter]: https://twitter.com/paul_shryock
+[twitter]: https://twitter.com/paul_shryock/
+[instagram]: https://www.instagram.com/paulshryock/
+[linkedin]: https://www.linkedin.com/in/paulshryock/
