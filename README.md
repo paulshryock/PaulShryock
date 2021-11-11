@@ -1,11 +1,15 @@
 Black lives matter.
 
-### Hi 👋
+**Hi 👋**
 
 I live and work remotely in New Jersey, with my wife, Jess. I'm currently a **WordPress Engineer** at the [NBA][nba], where I develop digital products for the league, as well as for the [WNBA](wnba), [G League](g-league), and [NBA 2K League](nba-2k-league). I'm also a part-time **Web Developer** at [Palantir][palantir], maintaining their public-facing marketing site.
 
-Proud to be listed as an open source contributor to [eleventy](https://github.com/11ty/eleventy/graphs/contributors) and [postcss](https://github.com/postcss/postcss/graphs/contributors).
+Proud to be listed as an open source contributor to these awesome projects:
+- [eleventy](https://github.com/11ty/eleventy/graphs/contributors)
+- [postcss](https://github.com/postcss/postcss/graphs/contributors)
+- [WP Flags](https://github.com/humanmade/wp-flags/graphs/contributors)
 
+## Get in touch
 - Follow me on [GitHub](github).
 - Chat with me on [Twitter][twitter].
 - Watch me lift weights on [Instagram](instagram).
