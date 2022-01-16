@@ -2,19 +2,18 @@
 
 I'm a WordPress Engineer at the [NBA](nba), where I build next-level CMS authoring experiences. I always aim to make the web more accessible, inclusive, and ethical.
 
-Proud to be listed as an open source contributor to these awesome projects:
-- [eleventy](https://github.com/11ty/eleventy/graphs/contributors)
-- [postcss](https://github.com/postcss/postcss/graphs/contributors)
-- [WP Flags](https://github.com/humanmade/wp-flags/graphs/contributors)
+I use a lot of open source code in my work, and I contribute back to those projects when I can.
 
-## Get in touch
-- Follow me on [GitHub](github).
-- Chat with me on [Twitter][twitter].
-- Watch me lift weights on [Instagram](instagram).
-- Send me job offers on [LinkedIn](linkedin).
+## Connect
+
+If you need an ethical software engineer to bring your Awesome Project™ to life, here's how to get in touch with me.
+
+- [Send work inquiries on LinkedIn](linkedin)
+- [Chat with me on Twitter](twitter)
+- [Watch me lift weights on Instagram](instagram)
 
 [nba]: https://www.nba.com/
 [github]: https://github.com/paulshryock/
+[linkedin]: https://www.linkedin.com/in/paulshryock/
 [twitter]: https://twitter.com/paul_shryock/
 [instagram]: https://www.instagram.com/paulshryock/
-[linkedin]: https://www.linkedin.com/in/paulshryock/
