@@ -1,3 +1,7 @@
-Senior Software Engineer building better content management workflows for editorial teams at the NBA to power nba.com and many other client applications.
+Senior software engineer with 15+ years experience, currently building better editorial content publishing tools for the NBA.
 
-Building a library of reusable Node.js abstractions for side effects at the edges of software so I can manage complexity and focus on application business logic. Yes, I realize that Node itself is already an abstraction layer.
+Previously developed websites for Palantir, and led front end development for the Visual Communications team at Realogy, building digital products for internal teams and real estate brands like Coldwell Banker, Sotheby's, and Century 21.
+
+Worked with global agencies like Ogilvy and Mcann, serving healthcare and pharmaceutical companies like Johnson & Johnson, Novartis, GlaxoSmithKline, Pfizer, AstraZeneca, and Novo Nordisk.
+
+Helped Fortune 500 industry leaders, award-winning global agencies, and successful startups and small businesses build accessible, secure websites and applications since 2009.
